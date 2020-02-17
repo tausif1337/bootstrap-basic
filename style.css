@@ -1,0 +1,36 @@
+body
+{
+	background-color: White;
+}
+
+h1
+{
+	font-family: ARIAL; 
+	background-color: Black;
+	color: White;
+	margin:0;
+    padding:0;
+}
+
+p
+{
+	font-family: ARIAL; 
+	background-color: White;
+	color: Black;
+
+}
+
+img
+{
+	width: 100%;
+}
+
+.image {
+  position: relative;
+}
+
+.find {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
